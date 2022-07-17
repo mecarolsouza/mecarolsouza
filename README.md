@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm Caroline, a design student at the Federal University of Pernambuco, Brazil, freelancer illustrator and a developing learner! :sunflower:
 
 <!--
 **mecarolsouza/mecarolsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
