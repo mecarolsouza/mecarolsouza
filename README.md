@@ -1,5 +1,11 @@
-### Hi there 👋
-## I'm Caroline, a design student at the Federal University of Pernambuco, Brazil, freelancer illustrator and a developing learner! :sunflower:
+### Hi there! 👋
+### I'm Caroline, a design student at the Federal University of Pernambuco, Brazil, freelancer illustrator and a developing learner. :sunflower:
+
+#### Find me on my art accounts! :art:
+- Twitter: @carolszart :bird:
+- Instagram: @carolszart :camera:
+
+
 
 <!--
 **mecarolsouza/mecarolsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
